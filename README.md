@@ -40,6 +40,3 @@ Preprocessing for NLP pipelines and text classification tasks.
 # Dataset Reference:
 
 SMS Spam Collection Dataset ( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download )
-
-SMS Spam Collection Dataset (https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
-)
